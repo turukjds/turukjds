@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>🌱 I’m currently learning Python
+<br>💬 Ask me about<br>⚡ Fun fact im freshgraduate
 
 
 ## 🌐 Socials:
